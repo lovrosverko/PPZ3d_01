@@ -21,8 +21,8 @@ Fibonaccijevog niza.
 Napišite program koji će za definirani niz tipa double pronaći član koji najmanje odstupa od 
 prosječne vrijednosti niza. Program mora raditi ispravno za proizvoljni broj članova niza.
 8 bodova
-5.
 
+5.
 Definirajte klasu NebeskoTijelo sa sljedećim varijablama članicama:
 • varijable tipa double
 BrzinaOkoOsi 
