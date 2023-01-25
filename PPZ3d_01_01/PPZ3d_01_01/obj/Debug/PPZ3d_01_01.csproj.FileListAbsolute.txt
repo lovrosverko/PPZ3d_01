@@ -1,0 +1,8 @@
+C:\Users\Lovro\source\repos\PPZ3d_01_01\PPZ3d_01_01\bin\Debug\PPZ3d_01_01.exe.config
+C:\Users\Lovro\source\repos\PPZ3d_01_01\PPZ3d_01_01\bin\Debug\PPZ3d_01_01.exe
+C:\Users\Lovro\source\repos\PPZ3d_01_01\PPZ3d_01_01\bin\Debug\PPZ3d_01_01.pdb
+C:\Users\Lovro\source\repos\PPZ3d_01_01\PPZ3d_01_01\obj\Debug\PPZ3d_01_01.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\PPZ3d_01_01\PPZ3d_01_01\obj\Debug\PPZ3d_01_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lovro\source\repos\PPZ3d_01_01\PPZ3d_01_01\obj\Debug\PPZ3d_01_01.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\PPZ3d_01_01\PPZ3d_01_01\obj\Debug\PPZ3d_01_01.exe
+C:\Users\Lovro\source\repos\PPZ3d_01_01\PPZ3d_01_01\obj\Debug\PPZ3d_01_01.pdb
